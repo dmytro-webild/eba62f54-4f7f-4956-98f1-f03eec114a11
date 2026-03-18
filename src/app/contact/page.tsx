@@ -92,7 +92,7 @@ export default function ContactPage() {
           logoText="Get In Touch"
           description="Have questions about buying, selling, or our sustainable practices? Our community support team is here to help. Reach out to us via email, phone, or visit our support portal. We typically respond within 2-4 hours during business hours (9 AM - 6 PM IST)."
           buttonAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/beautiful-woman-portrait-garden_1328-1841.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/beautiful-woman-portrait-garden_1328-1841.jpg?_wi=3"
           imageAlt="EcoThread customer support"
           showDimOverlay={false}
           buttons={[
@@ -113,7 +113,7 @@ export default function ContactPage() {
           useInvertedBackground={false}
           mediaAnimation="slide-up"
           faqsAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/fast-fashion-concept-with-piles-clothes_23-2150871371.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/fast-fashion-concept-with-piles-clothes_23-2150871371.jpg?_wi=4"
           imageAlt="Customer support resources"
           mediaPosition="right"
           showCard={true}
@@ -164,7 +164,7 @@ export default function ContactPage() {
         <FooterMedia
           logoText="EcoThread"
           copyrightText="© 2025 EcoThread. All rights reserved. Empowering sustainable fashion across India."
-          imageSrc="http://img.b2bpic.net/free-photo/nature-lover-working-greenhouse_23-2149037244.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/nature-lover-working-greenhouse_23-2149037244.jpg?_wi=3"
           imageAlt="Sustainable fashion community"
           columns={footerColumns}
         />
