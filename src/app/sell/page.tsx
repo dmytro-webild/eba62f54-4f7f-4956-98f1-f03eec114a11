@@ -93,7 +93,7 @@ export default function SellPage() {
           logoText="Sell Your Clothes & Earn"
           description="Turn your closet into cash while reducing fashion waste. Upload your gently used clothes, get verified quickly, and start earning 60-80% commission per sale. Join 50,000+ sellers on India's largest circular fashion platform."
           buttonAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/woman-with-shopping-bags-walking-boutique_23-2147784115.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/woman-with-shopping-bags-walking-boutique_23-2147784115.jpg?_wi=3"
           imageAlt="Sell clothes on EcoThread and earn"
           showDimOverlay={false}
           buttons={[
@@ -110,7 +110,7 @@ export default function SellPage() {
           tag="Quick & Easy"
           tagIcon={Zap}
           tagAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/baggage-with-clothes-camera-high-angle_23-2148938483.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/baggage-with-clothes-camera-high-angle_23-2148938483.jpg?_wi=3"
           imageAlt="Simple selling process on EcoThread"
           mediaAnimation="slide-up"
           useInvertedBackground={false}
@@ -220,7 +220,7 @@ export default function SellPage() {
         <FooterMedia
           logoText="EcoThread"
           copyrightText="© 2025 EcoThread. All rights reserved. Empowering sustainable fashion across India."
-          imageSrc="http://img.b2bpic.net/free-photo/nature-lover-working-greenhouse_23-2149037244.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/nature-lover-working-greenhouse_23-2149037244.jpg?_wi=4"
           imageAlt="Sustainable fashion community"
           columns={footerColumns}
         />
