@@ -93,7 +93,7 @@ export default function AboutPage() {
           logoText="About EcoThread"
           description="Our mission is to revolutionize fashion in India by making sustainability affordable and accessible. We're building a circular economy where every garment gets a second life, and every consumer can make an environmental impact."
           buttonAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/beautiful-woman-portrait-garden_1328-1841.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/beautiful-woman-portrait-garden_1328-1841.jpg?_wi=2"
           imageAlt="EcoThread circular fashion mission"
           showDimOverlay={false}
           buttons={[
@@ -110,7 +110,7 @@ export default function AboutPage() {
           tag="Our Mission"
           tagIcon={Leaf}
           tagAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/beautiful-young-woman-smiling_23-2148349500.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/beautiful-young-woman-smiling_23-2148349500.jpg?_wi=2"
           imageAlt="EcoThread community impact"
           useInvertedBackground={false}
           buttons={[{ text: "See Our Impact", href: "/impact" }]}
@@ -125,7 +125,7 @@ export default function AboutPage() {
           tag="What We Stand For"
           tagIcon={Zap}
           tagAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/fast-fashion-concept-with-piles-clothes_23-2150871371.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/fast-fashion-concept-with-piles-clothes_23-2150871371.jpg?_wi=3"
           imageAlt="EcoThread values and sustainability"
           mediaAnimation="slide-up"
           useInvertedBackground={false}
@@ -165,7 +165,7 @@ export default function AboutPage() {
         <FooterMedia
           logoText="EcoThread"
           copyrightText="© 2025 EcoThread. All rights reserved. Empowering sustainable fashion across India."
-          imageSrc="http://img.b2bpic.net/free-photo/nature-lover-working-greenhouse_23-2149037244.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/nature-lover-working-greenhouse_23-2149037244.jpg?_wi=2"
           imageAlt="Sustainable fashion community"
           columns={footerColumns}
         />
