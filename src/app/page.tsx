@@ -97,7 +97,7 @@ export default function HomePage() {
           logoText="EcoThread"
           description="Transform your wardrobe sustainably. Buy beautiful new eco-friendly clothing or give your old clothes a second life in our circular fashion marketplace. India's most affordable sustainable fashion platform with India-friendly payment options."
           buttonAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/beautiful-young-woman-smiling_23-2148349500.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/beautiful-young-woman-smiling_23-2148349500.jpg?_wi=1"
           imageAlt="Sustainable fashion collection - eco-friendly clothing"
           showDimOverlay={false}
           buttons={[
@@ -114,7 +114,7 @@ export default function HomePage() {
           tag="Circular Fashion Movement"
           tagIcon={Leaf}
           tagAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/beautiful-woman-portrait-garden_1328-1841.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/beautiful-woman-portrait-garden_1328-1841.jpg?_wi=1"
           imageAlt="Circular economy in fashion sustainability"
           useInvertedBackground={false}
           buttons={[{ text: "Learn Our Story", href: "/about" }]}
@@ -129,7 +129,7 @@ export default function HomePage() {
           tag="Simple Process"
           tagIcon={Zap}
           tagAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/fast-fashion-concept-with-piles-clothes_23-2150871371.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/fast-fashion-concept-with-piles-clothes_23-2150871371.jpg?_wi=1"
           imageAlt="Step-by-step recycling process"
           mediaAnimation="slide-up"
           useInvertedBackground={false}
@@ -196,7 +196,7 @@ export default function HomePage() {
               rating: 5,
               reviewCount: "156",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/baggage-with-clothes-camera-high-angle_23-2148938483.jpg",
+                "http://img.b2bpic.net/free-photo/baggage-with-clothes-camera-high-angle_23-2148938483.jpg?_wi=1",
               imageAlt: "Gently used designer denim jacket",
             },
             {
@@ -207,7 +207,7 @@ export default function HomePage() {
               rating: 4.5,
               reviewCount: "89",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/woman-with-shopping-bags-walking-boutique_23-2147784115.jpg",
+                "http://img.b2bpic.net/free-photo/woman-with-shopping-bags-walking-boutique_23-2147784115.jpg?_wi=1",
               imageAlt: "Quality pre-owned traditional kurta set",
             },
             {
@@ -229,7 +229,7 @@ export default function HomePage() {
               rating: 5,
               reviewCount: "127",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/baggage-with-clothes-camera-high-angle_23-2148938483.jpg",
+                "http://img.b2bpic.net/free-photo/baggage-with-clothes-camera-high-angle_23-2148938483.jpg?_wi=2",
               imageAlt: "Pre-loved vintage Kashmiri shawl",
             },
             {
@@ -240,7 +240,7 @@ export default function HomePage() {
               rating: 4.5,
               reviewCount: "98",
               imageSrc:
-                "http://img.b2bpic.net/free-photo/woman-with-shopping-bags-walking-boutique_23-2147784115.jpg",
+                "http://img.b2bpic.net/free-photo/woman-with-shopping-bags-walking-boutique_23-2147784115.jpg?_wi=2",
               imageAlt: "Eco-friendly linen blend salwar suit",
             },
           ]}
@@ -389,7 +389,7 @@ export default function HomePage() {
           useInvertedBackground={false}
           mediaAnimation="slide-up"
           faqsAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/fast-fashion-concept-with-piles-clothes_23-2150871371.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/fast-fashion-concept-with-piles-clothes_23-2150871371.jpg?_wi=2"
           imageAlt="FAQ support illustration"
           mediaPosition="right"
           showCard={true}
@@ -442,7 +442,7 @@ export default function HomePage() {
         <FooterMedia
           logoText="EcoThread"
           copyrightText="© 2025 EcoThread. All rights reserved. Empowering sustainable fashion across India."
-          imageSrc="http://img.b2bpic.net/free-photo/nature-lover-working-greenhouse_23-2149037244.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/nature-lover-working-greenhouse_23-2149037244.jpg?_wi=1"
           imageAlt="Sustainable fashion community"
           columns={footerColumns}
         />
